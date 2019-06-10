@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#a
+ifconfig | grep broadcast | cut -f5 -f6 -d' '
+
+#b
+ping -c3 10.2.255.255 && arp -a

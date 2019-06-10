@@ -1,0 +1,3 @@
+w-r11p3.s19.be  ca depends du poste
+la ligne de commande est :
+#nslookup 10.1.11.3 | grep name | cut -f3 -d' '

@@ -1,0 +1,1 @@
+l'adresse ip du serveur DNS se trouve dans le fichier resolv.conf via le PATH suivant : /etc/resolv.conf

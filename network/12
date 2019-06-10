@@ -1,0 +1,2 @@
+#!/bin/bash
+ipconfig getpacket en0 | grep yiaddr | cut -f3 -d' '

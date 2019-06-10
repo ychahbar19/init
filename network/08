@@ -1,0 +1,2 @@
+le site slash16.org est heberge via amazon web services(AWSDNS), nous pouvons le voir via la ligne de commande suivante :
+#whois slash16.org | grep "Name Server"

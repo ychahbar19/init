@@ -1,0 +1,1 @@
+le fichier contenant les cles RSA des machines autorisees a se connecter en SSH est donc le fichier avec le PATH suivant : ~/.ssh/.authorized_keys

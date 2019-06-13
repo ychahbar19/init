@@ -1,0 +1,3 @@
+read -p "please enter the username you want to log off :" username
+passwd -l $username
+userdel $username

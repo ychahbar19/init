@@ -28,3 +28,6 @@ ssh
 sdev
 unattended-upgrades
 x11-common
+
+
+# ces services portent le nom de services d'initialisations

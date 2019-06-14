@@ -5,6 +5,6 @@ if [ -d "$ndir" ]
 then
 echo "Directory exist"
 else
-	"mkdir $(ndir)"
+	mkdir $ndir
 echo "Directory created"
 fi
